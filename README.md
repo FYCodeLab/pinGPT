@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/pingptlogo1.png" width="500">
+  <img src="/assets/pingptlogos.png" width="500">
 </p>
 
 <p align="center">
